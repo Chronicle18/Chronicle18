@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Chronicle18)**
 
-- 📫 How to reach me **-**
+- 📫 How to reach me **https://www.linkedin.com/in/pranav-tambaku-8bb852194/**
 
 ## 🚀 Languages and Tools:
 
