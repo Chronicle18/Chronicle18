@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Chronicle18)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://pranavtambaku.vercel.app/)**
 
 - 📫 How to reach me **https://www.linkedin.com/in/pranav-tambaku-8bb852194/**
 
